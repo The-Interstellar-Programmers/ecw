@@ -3,11 +3,11 @@
   <title>ezCite</title>
   
   <subtitle>- The UlTiMaTe Citation Generator</subtitle>
-  <link href="https://leodenglovescode.github.io/atom.xml" rel="self"/>
+  <link href="https://leodenglovescode.github.io/ecw/atom.xml" rel="self"/>
   
-  <link href="https://leodenglovescode.github.io/"/>
+  <link href="https://leodenglovescode.github.io/ecw/"/>
   <updated>2022-11-08T15:01:25.930Z</updated>
-  <id>https://leodenglovescode.github.io/</id>
+  <id>https://leodenglovescode.github.io/ecw/</id>
   
   <author>
     <name>ezCite</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello, World!</title>
-    <link href="https://leodenglovescode.github.io/2022/11/08/hello-world/"/>
-    <id>https://leodenglovescode.github.io/2022/11/08/hello-world/</id>
+    <link href="https://leodenglovescode.github.io/ecw/2022/11/08/hello-world/"/>
+    <id>https://leodenglovescode.github.io/ecw/2022/11/08/hello-world/</id>
     <published>2022-11-08T03:07:18.638Z</published>
     <updated>2022-11-08T15:01:25.930Z</updated>
     

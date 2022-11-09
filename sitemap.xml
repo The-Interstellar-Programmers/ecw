@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://leodenglovescode.github.io/2022/11/08/hello-world/</loc>
+    <loc>https://leodenglovescode.github.io/ecw/2022/11/08/hello-world/</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://leodenglovescode.github.io/tags/index.html</loc>
+    <loc>https://leodenglovescode.github.io/ecw/tags/index.html</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://leodenglovescode.github.io/categories/index.html</loc>
+    <loc>https://leodenglovescode.github.io/ecw/categories/index.html</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://leodenglovescode.github.io/about/index.html</loc>
+    <loc>https://leodenglovescode.github.io/ecw/about/index.html</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://leodenglovescode.github.io/</loc>
+    <loc>https://leodenglovescode.github.io/ecw</loc>
     <lastmod>2022-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
