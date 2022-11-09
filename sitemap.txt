@@ -1,5 +1,5 @@
-https://leodenglovescode.github.io/ecw/2022/11/08/hello-world/
-https://leodenglovescode.github.io/ecw/tags/index.html
-https://leodenglovescode.github.io/ecw/categories/index.html
-https://leodenglovescode.github.io/ecw/about/index.html
-https://leodenglovescode.github.io/ecw
+http://example.com/2022/11/08/hello-world/
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/
